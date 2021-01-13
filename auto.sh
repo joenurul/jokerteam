@@ -25,7 +25,7 @@ sleep 1
 echo -e "Bersabar Script akan di jalankan dalam waktu 1 Detik !!!!!"
 echo -e "gassskannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
 
-apr install bash
+apt install bash
 
 #sabar taik
 cd /usr/bin
